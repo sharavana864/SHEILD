@@ -48,27 +48,38 @@ Biomedical waste is hazardous if not treated properly. SHIELD helps:
 - **Servo Motor** → Pin 5 (signal), 5V, GND  
 
 ---
+# Prototype (Figma App)
 
-## ðŸ“¦ Process Flow (Summary)
+The Figma prototype demonstrates how SHIELD integrates with collection agencies:
 
-1. Waste â‰¤ 1kg â†’ Sterilize in SHIELD box (99% sterilization).  
-   âœ… Safe for disposal in normal bins.  
+- Waste booking flow
+- Delivery slot management
+- Real-time collection updates
 
-2. Waste > 1kg â†’ Use SHIELD app.  
-   ðŸšš Agency pickup â†’ disposed via BMWM system.  
-
----
-
-## ðŸ“Œ Future Scope
-
-- IoT integration for remote monitoring.  
-- Mobile app notifications for sterilization status.  
-- Real-time agency tracking.  
-- Waste logging & reporting for compliance.  
+[https://www.figma.com/design/oOm3kR59HYmV09y5yYS8dm/Untitled?node-id=0-1&p=f]
 
 ---
 
-## ðŸ¤ Contributors
+## Process Flow (Summary)
+
+1. Waste 1kg @ Sterilize in SHIELD box (99% sterilization).  
+   Safe for disposal in normal bins.
+
+2. Waste > 1kg Use SHIELD app.  
+   Agency pickup ’ disposed via BMWM system.
+
+---
+
+## Future Scope
+
+- IoT integration for remote monitoring.
+- Mobile app notifications for sterilization status.
+- Real-time agency tracking.
+- Waste logging & reporting for compliance.
+
+---
+
+## Contributors
 
 - Santhiya
 - Rahul
